@@ -1,2 +1,3 @@
-# leafy_api
-This is an 
+# Leafy API
+
+This is an API calling hosted an render.com
